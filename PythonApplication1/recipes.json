@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Egészséges saláta",
+        "ingredients": [ "paradicsom", "uborka", "saláta" ]
+    },
+    {
+        "name": "Avokádos pirítós",
+        "ingredients":  ["avokádó","kenyér"]
+    }
+]
